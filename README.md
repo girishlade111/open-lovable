@@ -65,3 +65,7 @@ Open [http://localhost:3000](http://localhost:3000)
 ## License
 
 MIT
+
+---
+
+**Built by Girish Lade** — [ladestack.in](https://ladestack.in)
